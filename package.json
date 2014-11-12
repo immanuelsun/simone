@@ -1,0 +1,40 @@
+{
+  "name": "my-simone",
+  "version": "0.0.1",
+  "description": "A WordPress theme based _S starter theme with workflows setup: Gulp, Git, and Browserfy.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/immanuelsun888/my-simone.git"
+  },
+  "author": "Immanuel Sun",
+  "bugs": {
+    "url": "https://github.com/immanuelsun888/my-simone/issues"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-util": "*",
+    "gulp-coffee": "*",
+    "gulp-concat": "*",
+    "gulp-browserify": "*",
+    "jquery": "*",
+    "mustache": "*",
+    "gulp-ruby-sass": "*",
+    "gulp-connect": "*",
+    "gulp-if": "*",
+    "gulp-uglify": "*",
+    "gulp-minify-html": "*",
+    "gulp-minify-css": "*",
+    "gulp-jsonminify": "*",
+    "gulp-autoprefixer": "*",
+    "tiny-lr": "*",
+    "gulp-imagemin": "*",
+    "imagemin-pngcrush": "*",
+    "gulp-load-plugins": "*",
+    "gulp-cache": "*",
+    "gulp-jshint": "*",
+    "gulp-livereload": "*",
+    "gulp-plumber": "*",
+    "gulp-rename": "~1.2.0",
+    "gulp-notify": "~2.0.1"
+  }
+}
